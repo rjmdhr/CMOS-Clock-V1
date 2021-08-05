@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CMOS_Clock_V1)(type Legacy)(uri E:/University/Projects/CMOS-Clock-V1/lib/CMOS_Clock_V1.lib)(options "")(descr ""))
+)
