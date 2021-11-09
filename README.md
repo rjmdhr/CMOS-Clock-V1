@@ -1,5 +1,5 @@
 # CMOS-Clock-V1
-A digital CMOS clock which drives several displays through logic ICs clocked via an external crystal oscillator
+A 12-hour digital CMOS clock which drives several displays through logic ICs clocked via an external crystal oscillator
 
 *A short report on the design will be uploaded soon*
 
