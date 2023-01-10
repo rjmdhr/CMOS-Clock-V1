@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>F:\University\Projects\CMOS-Clock-V1\src\CMOS-Clock-V1.kicad_sch</source>
+    <date>2022-11-04 11:16:59 PM</date>
+    <tool>Eeschema (6.0.9)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CMOS-Clock-V1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f463ca</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060fa5d4e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000610105d1</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006101886e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006109d711</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f7d014</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061033da7</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f815b5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f4a2df</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615f4b67</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615f4b55</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615f4b43</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061040557</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061042094</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000610438c2</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611143ee</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611010a6</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061660bb6</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061660ba4</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061660b92</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061660bc8</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000626b3064</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100u</value>
+      <footprint>src:865080142007</footprint>
+      <libsource lib="Device" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062439e71</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Red</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Part Number">5988250107F</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Part Number" value="5988250107F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062f70a9a</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Red</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Part Number">5988250107F</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Part Number" value="5988250107F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062f6f400</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Amber</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Part Number">5990220007F</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Part Number" value="5990220007F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000628de658</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Violet</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000629331b8</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>Red</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Part Number">5988250107F</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Part Number" value="5988250107F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006112c0e4</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_B_Micro</value>
+      <footprint>src:AMPHENOL_10118194-0001LF</footprint>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061fb9ba6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000610105c5</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061018862</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006109d6fc</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060faab58</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>7.5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000610105dd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>7.5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006101887a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>7.5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006109d703</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000618f3fa2</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615ecd18</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>143</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062e6e7be</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>143</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062eba58a</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006159e154</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>143</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Part Number">ERJ-8ENF1470V</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Part Number" value="ERJ-8ENF1470V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006295dfaf</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062311552</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622f5fcb</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006231a734</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006233eb98</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615c579a</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062323807</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062347c95</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617a14b3</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006232c9a0</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062350dea</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Part Number">ERJ-8ENF1470V</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Part Number" value="ERJ-8ENF1470V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006295eb4e</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062335a63</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062359ef6</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006237e35c</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062362fa4</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623874b8</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006168b055</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006236c0f9</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623905e0</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000619bd6e7</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623751df</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>143</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006112c0f2</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062399772</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623bdd89</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623a28b8</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623c6ec0</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>1.58k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006163bf7d</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623abae7</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623d0083</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>84.5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000623b4b9f</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>1M</value>
+      <footprint>src:TRIM_TC33X-2-105E</footprint>
+      <libsource lib="Device" part="R_POT_TRIM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f84adc</tstamps>
+    </comp>
+    <comp ref="SS1">
+      <value>VDMR10C0</value>
+      <footprint>src:VDMR10C0</footprint>
+      <libsource lib="CMOS_Clock_V1" part="VDMY10C0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006208ec60</tstamps>
+    </comp>
+    <comp ref="SS2">
+      <value>VDMR10C0</value>
+      <footprint>src:VDMR10C0</footprint>
+      <libsource lib="CMOS_Clock_V1" part="VDMY10C0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006208fd19</tstamps>
+    </comp>
+    <comp ref="SS3">
+      <value>VDMR10C0</value>
+      <footprint>src:VDMR10C0</footprint>
+      <libsource lib="CMOS_Clock_V1" part="VDMY10C0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000620b5e5d</tstamps>
+    </comp>
+    <comp ref="SS4">
+      <value>VDMYR0C0</value>
+      <footprint>src:VDMR10C0</footprint>
+      <libsource lib="CMOS_Clock_V1" part="VDMY10C0" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000620bf1bb</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>src:PTS 647 SK38 SMTR2 LFS</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000610105e5</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>src:PTS 647 SK38 SMTR2 LFS</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061018882</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>src:PTS 647 SK38 SMTR2 LFS</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006109d6f4</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>BAS28,215</value>
+      <footprint>src:SOT143(B)</footprint>
+      <libsource lib="CMOS_Clock_V1" part="BAS28,215" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f91ec7</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>7555</value>
+      <footprint>src:ICM7555</footprint>
+      <libsource lib="CMOS_Clock_V1" part="7555" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f79b1b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74AHC1G4215</value>
+      <footprint>src:74AHC1G4215</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74AHC1G4210.pdf</datasheet>
+      <libsource lib="74xGxx" part="74AHC1G4210" description="10-stage divider and oscillator, SOT353-1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f1cde5</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>74AHC3G14DP,125</value>
+      <footprint>src:SOT505-2</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74AHC3G14DP,125" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062672abb</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>74HC390D,652</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74HC390D,652" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f348d7</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>74AHC157D,118</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74AHC157D,118" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613d4102</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>74HC27D,653</value>
+      <footprint>src:SOT108-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74HC27D,653" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613c629e</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>74LVC1G157</value>
+      <footprint>src:SOT457</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74LVC1G157" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006157fe01</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>74AHC08D,118</value>
+      <footprint>src:SOT108-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74AHC08D,118" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000610bb8c6</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>74AHC86D,118</value>
+      <footprint>src:SOT108-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74AHC86D,118" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061122745</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>74HC390D,652</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74HC390D,652" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f4cfb1</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>74HC390D,652</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74HC390D,652" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f4d810</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>2N7002PS</value>
+      <footprint>src:SOT363</footprint>
+      <libsource lib="CMOS_Clock_V1" part="2N7002PS" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062969e92</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>MC14511BDR2G</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="MC14511BDR2G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000616355db</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>2N7002PS</value>
+      <footprint>src:SOT363</footprint>
+      <libsource lib="CMOS_Clock_V1" part="2N7002PS" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062967774</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>74LVC1G74DP,125</value>
+      <footprint>src:SOT505-2</footprint>
+      <libsource lib="CMOS_Clock_V1" part="74LVC1G74DP,125" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000626b12f6</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>MC14511BDR2G</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="MC14511BDR2G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006163fd46</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>2N7002PS</value>
+      <footprint>src:SOT363</footprint>
+      <libsource lib="CMOS_Clock_V1" part="2N7002PS" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006296901a</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>MC14511BDR2G</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="MC14511BDR2G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061650388</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>2N7002PS</value>
+      <footprint>src:SOT363</footprint>
+      <libsource lib="CMOS_Clock_V1" part="2N7002PS" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006112c101</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>MC14511BDR2G</value>
+      <footprint>src:SOT109-1</footprint>
+      <libsource lib="CMOS_Clock_V1" part="MC14511BDR2G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061648116</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>OM-7604-C7</value>
+      <footprint>src:OSC_OM-7604-C7</footprint>
+      <libsource lib="CMOS_Clock_V1" part="OM-7604-C7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F:/University/Projects/CMOS-Clock-V1/src/CMOS-Clock-V1.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060f10ec5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="CMOS_Clock_V1_2N7002PS">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_2N7002PS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S1" type="passive"/>
+        <pin num="2" name="G1" type="passive"/>
+        <pin num="3" name="D2" type="passive"/>
+        <pin num="4" name="S2" type="passive"/>
+        <pin num="5" name="G2" type="passive"/>
+        <pin num="6" name="D1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74AHC08D,118">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74AHC08D,118</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1B" type="input"/>
+        <pin num="3" name="1Y" type="output"/>
+        <pin num="4" name="2A" type="input"/>
+        <pin num="5" name="2B" type="input"/>
+        <pin num="6" name="2Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="output"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="3B" type="input"/>
+        <pin num="11" name="4Y" type="output"/>
+        <pin num="12" name="4A" type="input"/>
+        <pin num="13" name="4B" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74AHC157D,118">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74AHC157D,118</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="input"/>
+        <pin num="2" name="1I0" type="input"/>
+        <pin num="3" name="1I1" type="input"/>
+        <pin num="4" name="1Y" type="output"/>
+        <pin num="5" name="2I0" type="input"/>
+        <pin num="6" name="2I1" type="input"/>
+        <pin num="7" name="2Y" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="3Y" type="output"/>
+        <pin num="10" name="3I1" type="input"/>
+        <pin num="11" name="3I0" type="input"/>
+        <pin num="12" name="4Y" type="output"/>
+        <pin num="13" name="4I1" type="input"/>
+        <pin num="14" name="4I0" type="input"/>
+        <pin num="15" name="~{E}" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74AHC3G14DP,125">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74AHC3G14DP,125</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="3Y" type="output"/>
+        <pin num="3" name="2A" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="2Y" type="output"/>
+        <pin num="6" name="3A" type="input"/>
+        <pin num="7" name="1Y" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74AHC86D,118">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74AHC86D,118</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1B" type="input"/>
+        <pin num="3" name="1Y" type="output"/>
+        <pin num="4" name="2A" type="input"/>
+        <pin num="5" name="2B" type="input"/>
+        <pin num="6" name="2Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="output"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="3B" type="input"/>
+        <pin num="11" name="4Y" type="output"/>
+        <pin num="12" name="4A" type="input"/>
+        <pin num="13" name="4B" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74HC27D,653">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74HC27D,653</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1B" type="input"/>
+        <pin num="3" name="2A" type="input"/>
+        <pin num="4" name="2B" type="input"/>
+        <pin num="5" name="2C" type="input"/>
+        <pin num="6" name="2Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="3Y" type="output"/>
+        <pin num="9" name="3A" type="input"/>
+        <pin num="10" name="3B" type="input"/>
+        <pin num="11" name="3C" type="input"/>
+        <pin num="12" name="1Y" type="output"/>
+        <pin num="13" name="1C" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74HC390D,652">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74HC390D,652</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1~{CP}0" type="input"/>
+        <pin num="2" name="1MR" type="input"/>
+        <pin num="3" name="1Q0" type="output"/>
+        <pin num="4" name="1~{CP}1" type="input"/>
+        <pin num="5" name="1Q1" type="output"/>
+        <pin num="6" name="1Q2" type="output"/>
+        <pin num="7" name="1Q3" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="2Q3" type="output"/>
+        <pin num="10" name="2Q2" type="output"/>
+        <pin num="11" name="2Q1" type="output"/>
+        <pin num="12" name="2~{CP}1" type="input"/>
+        <pin num="13" name="2Q0" type="output"/>
+        <pin num="14" name="2MR" type="input"/>
+        <pin num="15" name="2~{CP}0" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74LVC1G157">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74LVC1G157</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I1" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="I0" type="input"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="S" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_74LVC1G74DP,125">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_74LVC1G74DP,125</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CP" type="input"/>
+        <pin num="2" name="D" type="input"/>
+        <pin num="3" name="~{Q}" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Q" type="output"/>
+        <pin num="6" name="~{R}D" type="input"/>
+        <pin num="7" name="~{SD}" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_7555">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_7555</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="~{TRIG}" type="input"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="RST" type="input"/>
+        <pin num="5" name="CTRL" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_BAS28,215">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_BAS28,215</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CAT1" type="input"/>
+        <pin num="2" name="CAT2" type="input"/>
+        <pin num="3" name="ANO2" type="input"/>
+        <pin num="4" name="ANO1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_MC14511BDR2G">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CMOS_Clock_V1_MC14511BDR2G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="input"/>
+        <pin num="3" name="~{LT}" type="input"/>
+        <pin num="4" name="~{BI}" type="input"/>
+        <pin num="5" name="LE" type="input"/>
+        <pin num="6" name="D" type="input"/>
+        <pin num="7" name="A" type="input"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="e" type="output"/>
+        <pin num="10" name="d" type="output"/>
+        <pin num="11" name="c" type="output"/>
+        <pin num="12" name="b" type="output"/>
+        <pin num="13" name="a" type="output"/>
+        <pin num="14" name="g" type="output"/>
+        <pin num="15" name="f" type="output"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_OM-7604-C7">
+      <fields>
+        <field name="Reference">OSCXO</field>
+        <field name="Value">CMOS_Clock_V1_OM-7604-C7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CLKOUT" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="CLKOE" type="input"/>
+        <pin num="4" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="CMOS_Clock_V1_VDMY10C0">
+      <fields>
+        <field name="Reference">SS</field>
+        <field name="Value">CMOS_Clock_V1_VDMY10C0</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="input"/>
+        <pin num="2" name="D" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="C" type="input"/>
+        <pin num="5" name="DP" type="input"/>
+        <pin num="6" name="B" type="input"/>
+        <pin num="7" name="A" type="input"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="F" type="input"/>
+        <pin num="10" name="G" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Device_CP">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Device_CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Device_R_POT_TRIM">
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">Device_R_POT_TRIM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xGxx" part="74AHC1G4210">
+      <description>10-stage divider and oscillator, SOT353-1</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/74AHC1G4210.pdf</docs>
+      <footprints>
+        <fp>SOT*353*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74AHC1G4210</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-353_SC-70-5</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/74AHC1G4210.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="X1" type="input"/>
+        <pin num="2" name="X2" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Q" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="0Blank">
+      <node ref="U14" pin="4" pinfunction="~{BI}" pintype="input"/>
+      <node ref="U9" pin="8" pinfunction="3Y" pintype="output"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SS1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="SS2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="SS3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="SS4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="2" pinfunction="1MR" pintype="input"/>
+      <node ref="U11" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="U14" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="U14" pin="2" pinfunction="C" pintype="input"/>
+      <node ref="U14" pin="5" pinfunction="LE" pintype="input"/>
+      <node ref="U14" pin="6" pinfunction="D" pintype="input"/>
+      <node ref="U14" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U15" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="U16" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U17" pin="5" pinfunction="LE" pintype="input"/>
+      <node ref="U17" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U18" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="U19" pin="5" pinfunction="LE" pintype="input"/>
+      <node ref="U19" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U20" pin="1" pinfunction="S1" pintype="passive"/>
+      <node ref="U21" pin="5" pinfunction="LE" pintype="input"/>
+      <node ref="U21" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="10" pinfunction="3I1" pintype="input"/>
+      <node ref="U6" pin="13" pinfunction="4I1" pintype="input"/>
+      <node ref="U6" pin="15" pinfunction="~{E}" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="1I1" pintype="input"/>
+      <node ref="U6" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="X1" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="3" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="~{TRIG}" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="THR" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="CTRL" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U13" pin="3" pinfunction="D2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U15" pin="3" pinfunction="D2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U18" pin="3" pinfunction="D2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U20" pin="3" pinfunction="D2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="CAT2" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="ANO1" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U9" pin="10" pinfunction="3B" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U13" pin="2" pinfunction="G1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U15" pin="2" pinfunction="G1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U17" pin="14" pinfunction="g" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U17" pin="9" pinfunction="e" pintype="output"/>
+    </net>
+    <net code="26" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U18" pin="2" pinfunction="G1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(R19-Pad1)">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U17" pin="15" pinfunction="f" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U17" pin="10" pinfunction="d" pintype="output"/>
+    </net>
+    <net code="29" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U17" pin="4" pinfunction="~{BI}" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U17" pin="13" pinfunction="a" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U17" pin="11" pinfunction="c" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U17" pin="12" pinfunction="b" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(R26-Pad1)">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U19" pin="14" pinfunction="g" pintype="output"/>
+    </net>
+    <net code="34" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U19" pin="9" pinfunction="e" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(R28-Pad1)">
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U19" pin="15" pinfunction="f" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(R29-Pad2)">
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U19" pin="10" pinfunction="d" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(R30-Pad2)">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U19" pin="4" pinfunction="~{BI}" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(R31-Pad1)">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U19" pin="13" pinfunction="a" pintype="output"/>
+    </net>
+    <net code="39" name="Net-(R32-Pad2)">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U19" pin="11" pinfunction="c" pintype="output"/>
+    </net>
+    <net code="40" name="Net-(R33-Pad2)">
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U20" pin="2" pinfunction="G1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(R34-Pad1)">
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U19" pin="12" pinfunction="b" pintype="output"/>
+    </net>
+    <net code="42" name="Net-(R36-Pad1)">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U21" pin="14" pinfunction="g" pintype="output"/>
+    </net>
+    <net code="43" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U21" pin="9" pinfunction="e" pintype="output"/>
+    </net>
+    <net code="44" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U21" pin="15" pinfunction="f" pintype="output"/>
+    </net>
+    <net code="45" name="Net-(R39-Pad2)">
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="U21" pin="10" pinfunction="d" pintype="output"/>
+    </net>
+    <net code="46" name="Net-(R40-Pad2)">
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="U21" pin="4" pinfunction="~{BI}" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="U21" pin="13" pinfunction="a" pintype="output"/>
+    </net>
+    <net code="48" name="Net-(R42-Pad2)">
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="U21" pin="11" pinfunction="c" pintype="output"/>
+    </net>
+    <net code="49" name="Net-(R43-Pad1)">
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U21" pin="12" pinfunction="b" pintype="output"/>
+    </net>
+    <net code="50" name="Net-(RV1-Pad1)">
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="ANO2" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(RV1-Pad3)">
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CAT1" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(SS1-Pad4)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="SS1" pin="4" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(SS1-Pad6)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="SS1" pin="6" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(SS2-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="SS2" pin="1" pinfunction="E" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(SS2-Pad2)">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="SS2" pin="2" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(SS2-Pad4)">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="SS2" pin="4" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(SS2-Pad6)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="SS2" pin="6" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(SS2-Pad7)">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="SS2" pin="7" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(SS2-Pad9)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="SS2" pin="9" pinfunction="F" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(SS2-Pad10)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="SS2" pin="10" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(SS3-Pad1)">
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="SS3" pin="1" pinfunction="E" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(SS3-Pad2)">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="SS3" pin="2" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(SS3-Pad4)">
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="SS3" pin="4" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(SS3-Pad6)">
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="SS3" pin="6" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="65" name="Net-(SS3-Pad7)">
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="SS3" pin="7" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="66" name="Net-(SS3-Pad9)">
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="SS3" pin="9" pinfunction="F" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(SS3-Pad10)">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="SS3" pin="10" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(SS4-Pad1)">
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="SS4" pin="1" pinfunction="E" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(SS4-Pad2)">
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="SS4" pin="2" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="70" name="Net-(SS4-Pad4)">
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="SS4" pin="4" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="71" name="Net-(SS4-Pad6)">
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="SS4" pin="6" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="72" name="Net-(SS4-Pad7)">
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="SS4" pin="7" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="73" name="Net-(SS4-Pad9)">
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="SS4" pin="9" pinfunction="F" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(SS4-Pad10)">
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="SS4" pin="10" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="75" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="X1" pintype="input"/>
+      <node ref="X1" pin="1" pinfunction="CLKOUT" pintype="output"/>
+    </net>
+    <net code="76" name="Net-(U5-Pad1)">
+      <node ref="U10" pin="3" pinfunction="1Y" pintype="output"/>
+      <node ref="U5" pin="1" pinfunction="1~{CP}0" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1" pinfunction="S" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="1Y" pintype="output"/>
+      <node ref="U8" pin="6" pinfunction="S" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(U7-Pad10)">
+      <node ref="U7" pin="10" pinfunction="3B" pintype="input"/>
+      <node ref="U7" pin="11" pinfunction="3C" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="2Y" pintype="output"/>
+      <node ref="U7" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(U7-Pad13)">
+      <node ref="U7" pin="13" pinfunction="1C" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="3Y" pintype="output"/>
+    </net>
+    <net code="80" name="Net-(U10-Pad1)">
+      <node ref="U10" pin="1" pinfunction="1A" pintype="input"/>
+      <node ref="U11" pin="14" pinfunction="2MR" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="81" name="Net-(U10-Pad6)">
+      <node ref="U10" pin="6" pinfunction="2Y" pintype="output"/>
+      <node ref="U11" pin="1" pinfunction="1~{CP}0" pintype="input"/>
+    </net>
+    <net code="82" name="Net-(U10-Pad10)">
+      <node ref="U10" pin="10" pinfunction="3B" pintype="input"/>
+      <node ref="U10" pin="11" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="83" name="Net-(U10-Pad12)">
+      <node ref="U10" pin="12" pinfunction="4A" pintype="input"/>
+      <node ref="U10" pin="4" pinfunction="2A" pintype="input"/>
+      <node ref="U9" pin="6" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="84" name="Net-(U12-Pad10)">
+      <node ref="U12" pin="10" pinfunction="2Q2" pintype="output"/>
+      <node ref="U9" pin="5" pinfunction="2B" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(U12-Pad11)">
+      <node ref="U12" pin="11" pinfunction="2Q1" pintype="output"/>
+      <node ref="U9" pin="4" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="86" name="Net-(U12-Pad12)">
+      <node ref="U12" pin="12" pinfunction="2~{CP}1" pintype="input"/>
+      <node ref="U12" pin="13" pinfunction="2Q0" pintype="output"/>
+    </net>
+    <net code="87" name="Net-(U12-Pad15)">
+      <node ref="U12" pin="15" pinfunction="2~{CP}0" pintype="input"/>
+      <node ref="U12" pin="7" pinfunction="1Q3" pintype="output"/>
+    </net>
+    <net code="88" name="Net-(U13-Pad4)">
+      <node ref="U13" pin="4" pinfunction="S2" pintype="passive"/>
+      <node ref="U13" pin="6" pinfunction="D1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(U14-Pad11)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U14" pin="11" pinfunction="c" pintype="output"/>
+    </net>
+    <net code="90" name="Net-(U14-Pad12)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U14" pin="12" pinfunction="b" pintype="output"/>
+    </net>
+    <net code="91" name="Net-(U15-Pad4)">
+      <node ref="U15" pin="4" pinfunction="S2" pintype="passive"/>
+      <node ref="U15" pin="6" pinfunction="D1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(U15-Pad5)">
+      <node ref="U15" pin="5" pinfunction="G2" pintype="passive"/>
+      <node ref="U16" pin="5" pinfunction="Q" pintype="output"/>
+    </net>
+    <net code="93" name="Net-(U16-Pad2)">
+      <node ref="U16" pin="2" pinfunction="D" pintype="input"/>
+      <node ref="U16" pin="3" pinfunction="~{Q}" pintype="output"/>
+      <node ref="U18" pin="5" pinfunction="G2" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(U18-Pad4)">
+      <node ref="U18" pin="4" pinfunction="S2" pintype="passive"/>
+      <node ref="U18" pin="6" pinfunction="D1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(U20-Pad4)">
+      <node ref="U20" pin="4" pinfunction="S2" pintype="passive"/>
+      <node ref="U20" pin="6" pinfunction="D1" pintype="passive"/>
+    </net>
+    <net code="96" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U10" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U11" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U12" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U14" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U14" pin="3" pinfunction="~{LT}" pintype="input"/>
+      <node ref="U16" pin="6" pinfunction="~{R}D" pintype="input"/>
+      <node ref="U16" pin="7" pinfunction="~{SD}" pintype="input"/>
+      <node ref="U16" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U17" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U17" pin="3" pinfunction="~{LT}" pintype="input"/>
+      <node ref="U19" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U19" pin="3" pinfunction="~{LT}" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="RST" pintype="input"/>
+      <node ref="U2" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U21" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U21" pin="3" pinfunction="~{LT}" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="2I1" pintype="input"/>
+      <node ref="U7" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="I1" pintype="input"/>
+      <node ref="U8" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U9" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="X1" pin="4" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="97" name="clk">
+      <node ref="U12" pin="1" pinfunction="1~{CP}0" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="Q" pintype="output"/>
+    </net>
+    <net code="98" name="clkoe">
+      <node ref="U4" pin="2" pinfunction="3Y" pintype="output"/>
+      <node ref="X1" pin="3" pinfunction="CLKOE" pintype="input"/>
+    </net>
+    <net code="99" name="hr_set">
+      <node ref="U10" pin="2" pinfunction="1B" pintype="input"/>
+      <node ref="U10" pin="9" pinfunction="3A" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="100" name="hrst">
+      <node ref="U16" pin="1" pinfunction="CP" pintype="input"/>
+      <node ref="U5" pin="14" pinfunction="2MR" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="1MR" pintype="input"/>
+      <node ref="U9" pin="11" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="101" name="ih0Q0">
+      <node ref="U5" pin="3" pinfunction="1Q0" pintype="output"/>
+      <node ref="U5" pin="4" pinfunction="1~{CP}1" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="1I0" pintype="input"/>
+      <node ref="U7" pin="4" pinfunction="2B" pintype="input"/>
+    </net>
+    <net code="102" name="ih0Q1">
+      <node ref="U5" pin="5" pinfunction="1Q1" pintype="output"/>
+      <node ref="U6" pin="5" pinfunction="2I0" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="2A" pintype="input"/>
+      <node ref="U9" pin="13" pinfunction="4B" pintype="input"/>
+    </net>
+    <net code="103" name="ih0Q2">
+      <node ref="U5" pin="6" pinfunction="1Q2" pintype="output"/>
+      <node ref="U6" pin="11" pinfunction="3I0" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="1B" pintype="input"/>
+    </net>
+    <net code="104" name="ih0Q3">
+      <node ref="U5" pin="15" pinfunction="2~{CP}0" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="1Q3" pintype="output"/>
+      <node ref="U6" pin="14" pinfunction="4I0" pintype="input"/>
+      <node ref="U7" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="105" name="ih1Q0">
+      <node ref="U5" pin="12" pinfunction="2~{CP}1" pintype="input"/>
+      <node ref="U5" pin="13" pinfunction="2Q0" pintype="output"/>
+      <node ref="U7" pin="5" pinfunction="2C" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="I0" pintype="input"/>
+      <node ref="U9" pin="12" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="106" name="min_set">
+      <node ref="U10" pin="13" pinfunction="4B" pintype="input"/>
+      <node ref="U10" pin="5" pinfunction="2B" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="107" name="oh0Q0">
+      <node ref="U17" pin="7" pinfunction="A" pintype="input"/>
+      <node ref="U6" pin="4" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="108" name="oh0Q1">
+      <node ref="U17" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="U6" pin="7" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="109" name="oh0Q2">
+      <node ref="U17" pin="2" pinfunction="C" pintype="input"/>
+      <node ref="U6" pin="9" pinfunction="3Y" pintype="output"/>
+    </net>
+    <net code="110" name="oh0Q3">
+      <node ref="U17" pin="6" pinfunction="D" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="111" name="oh1Q0">
+      <node ref="U14" pin="7" pinfunction="A" pintype="input"/>
+      <node ref="U8" pin="4" pinfunction="Y" pintype="output"/>
+      <node ref="U9" pin="9" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="112" name="om0Q0">
+      <node ref="U11" pin="3" pinfunction="1Q0" pintype="output"/>
+      <node ref="U11" pin="4" pinfunction="1~{CP}1" pintype="input"/>
+      <node ref="U21" pin="7" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="113" name="om0Q1">
+      <node ref="U11" pin="5" pinfunction="1Q1" pintype="output"/>
+      <node ref="U21" pin="1" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="114" name="om0Q2">
+      <node ref="U11" pin="6" pinfunction="1Q2" pintype="output"/>
+      <node ref="U21" pin="2" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="115" name="om0Q3">
+      <node ref="U11" pin="15" pinfunction="2~{CP}0" pintype="input"/>
+      <node ref="U11" pin="7" pinfunction="1Q3" pintype="output"/>
+      <node ref="U21" pin="6" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="116" name="om1Q0">
+      <node ref="U11" pin="12" pinfunction="2~{CP}1" pintype="input"/>
+      <node ref="U11" pin="13" pinfunction="2Q0" pintype="output"/>
+      <node ref="U19" pin="7" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="117" name="om1Q1">
+      <node ref="U11" pin="11" pinfunction="2Q1" pintype="output"/>
+      <node ref="U19" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="U9" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="118" name="om1Q2">
+      <node ref="U11" pin="10" pinfunction="2Q2" pintype="output"/>
+      <node ref="U19" pin="2" pinfunction="C" pintype="input"/>
+      <node ref="U9" pin="2" pinfunction="1B" pintype="input"/>
+    </net>
+    <net code="119" name="om1Q3">
+      <node ref="U11" pin="9" pinfunction="2Q3" pintype="output"/>
+      <node ref="U19" pin="6" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="120" name="os0Q0">
+      <node ref="U12" pin="3" pinfunction="1Q0" pintype="output"/>
+      <node ref="U12" pin="4" pinfunction="1~{CP}1" pintype="input"/>
+      <node ref="U13" pin="5" pinfunction="G2" pintype="passive"/>
+    </net>
+    <net code="121" name="pwm">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="122" name="srst">
+      <node ref="U10" pin="8" pinfunction="3Y" pintype="output"/>
+      <node ref="U12" pin="14" pinfunction="2MR" pintype="input"/>
+      <node ref="U12" pin="2" pinfunction="1MR" pintype="input"/>
+      <node ref="U20" pin="5" pinfunction="G2" pintype="passive"/>
+    </net>
+    <net code="123" name="unconnected-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(SS1-Pad1)">
+      <node ref="SS1" pin="1" pinfunction="E" pintype="input+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(SS1-Pad2)">
+      <node ref="SS1" pin="2" pinfunction="D" pintype="input+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(SS1-Pad5)">
+      <node ref="SS1" pin="5" pinfunction="DP" pintype="input+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(SS1-Pad7)">
+      <node ref="SS1" pin="7" pinfunction="A" pintype="input+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(SS1-Pad8)">
+      <node ref="SS1" pin="8" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(SS1-Pad9)">
+      <node ref="SS1" pin="9" pinfunction="F" pintype="input+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(SS1-Pad10)">
+      <node ref="SS1" pin="10" pinfunction="G" pintype="input+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(SS2-Pad5)">
+      <node ref="SS2" pin="5" pinfunction="DP" pintype="input+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(SS2-Pad8)">
+      <node ref="SS2" pin="8" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(SS3-Pad5)">
+      <node ref="SS3" pin="5" pinfunction="DP" pintype="input+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(SS3-Pad8)">
+      <node ref="SS3" pin="8" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(SS4-Pad5)">
+      <node ref="SS4" pin="5" pinfunction="DP" pintype="input+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(SS4-Pad8)">
+      <node ref="SS4" pin="8" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(U3-Pad2)">
+      <node ref="U3" pin="2" pinfunction="X2" pintype="input+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(U5-Pad9)">
+      <node ref="U5" pin="9" pinfunction="2Q3" pintype="output+no_connect"/>
+    </net>
+    <net code="141" name="unconnected-(U5-Pad10)">
+      <node ref="U5" pin="10" pinfunction="2Q2" pintype="output+no_connect"/>
+    </net>
+    <net code="142" name="unconnected-(U5-Pad11)">
+      <node ref="U5" pin="11" pinfunction="2Q1" pintype="output+no_connect"/>
+    </net>
+    <net code="143" name="unconnected-(U12-Pad5)">
+      <node ref="U12" pin="5" pinfunction="1Q1" pintype="output+no_connect"/>
+    </net>
+    <net code="144" name="unconnected-(U12-Pad6)">
+      <node ref="U12" pin="6" pinfunction="1Q2" pintype="output+no_connect"/>
+    </net>
+    <net code="145" name="unconnected-(U12-Pad9)">
+      <node ref="U12" pin="9" pinfunction="2Q3" pintype="output+no_connect"/>
+    </net>
+    <net code="146" name="unconnected-(U14-Pad9)">
+      <node ref="U14" pin="9" pinfunction="e" pintype="output+no_connect"/>
+    </net>
+    <net code="147" name="unconnected-(U14-Pad10)">
+      <node ref="U14" pin="10" pinfunction="d" pintype="output+no_connect"/>
+    </net>
+    <net code="148" name="unconnected-(U14-Pad13)">
+      <node ref="U14" pin="13" pinfunction="a" pintype="output+no_connect"/>
+    </net>
+    <net code="149" name="unconnected-(U14-Pad14)">
+      <node ref="U14" pin="14" pinfunction="g" pintype="output+no_connect"/>
+    </net>
+    <net code="150" name="unconnected-(U14-Pad15)">
+      <node ref="U14" pin="15" pinfunction="f" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
